@@ -1,0 +1,49 @@
+# Portfolio settings
+title: Codding Staff
+description: Amateur // Developer // JustHuman
+email: ts.ts.smp@gmail.com
+
+menu:
+- {name: About, url: '#about'}
+- {name: Work, url: '#work'}
+- {name: Contacts, url: '#contacts'}
+
+
+
+#-----------------------------------
+# About Section
+
+skills:
+- {name: Communication, value: '8'}
+- {name: Organization, value: '8'}
+- {name: Learning, value: '9'}
+- {name: Teaching, value: '6'}
+- {name: Planning, value: '8'}
+- {name: Visual Design, value: '3'}
+- {name: UX Design, value: '5'}
+- {name: Programming, value: '3'}
+
+
+
+#-----------------------------------
+# Work Section
+projects:
+- {name: Future Project, folder: 'proj-1'}
+- {name: Future Project, folder: 'proj-2'}
+- {name: Future Project, folder: 'proj-3'}
+- {name: Future Project, folder: 'proj-4'}
+- {name: Future Project, folder: 'proj-5'}
+- {name: Future Project, folder: 'proj-6'}
+- {name: Future Project, folder: 'proj-7'}
+- {name: Future Project, folder: 'proj-8'}
+
+
+
+
+
+
+
+
+
+
+
